@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Bot_Afk_BDS",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bdssmpp.falixsrv.me",
-    "port": 28724,
+    "ip": "BDS_SMP.aternos.me",
+    "port": 53152,
     "version": "1.21.1"
   },
   "position": {
