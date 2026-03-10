@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BDS_SMP.aternos.me",
-    "port": 53152,
+    "ip": "bdssmpp.falixsrv.me",
+    "port": 28724,
     "version": "1.21.1"
   },
   "position": {
