@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Bot_AFK_24_7",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BDS_SMP.aternos.me",
     "port": 53152,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
